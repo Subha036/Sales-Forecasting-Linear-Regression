@@ -22,3 +22,20 @@ To build a Linear Regression model that predicts future sales revenue and visual
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 python sales_forecasting.py
+
+
+👉 **Indha block-ku KEELA** paste pannunga.
+
+---
+
+## 🔹 STEP 2: Paste THIS SECTION (Copy–Paste)
+
+👉 **Paste exactly below the “How to Run the Project” section** 👇
+
+```md
+## 🚀 Live Output (Google Colab)
+
+The project has been executed in Google Colab.  
+Click the link below to view the live execution, output graph, and forecast results:
+
+🔗 https://colab.research.google.com/drive/1LK_a5y4mVtvd5vBq71x7s-kNjrLpWBtq?usp=sharing
