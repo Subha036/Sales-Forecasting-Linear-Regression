@@ -24,15 +24,7 @@ pip install pandas numpy matplotlib scikit-learn
 python sales_forecasting.py
 
 
-👉 **Indha block-ku KEELA** paste pannunga.
 
----
-
-## 🔹 STEP 2: Paste THIS SECTION (Copy–Paste)
-
-👉 **Paste exactly below the “How to Run the Project” section** 👇
-
-```md
 ## 🚀 Live Output (Google Colab)
 
 The project has been executed in Google Colab.  
